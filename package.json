@@ -1,0 +1,26 @@
+{
+  "name": "InteractiveTimeline",
+  "version": "0.1.0",
+  "description": "Create, edit, and explore timelines.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PrettyKenobi",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.3"
+  }
+}
