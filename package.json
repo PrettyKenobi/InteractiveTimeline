@@ -4,7 +4,9 @@
   "description": "Create, edit, and explore timelines.",
   "main": "index.js",
   "directories": {
-    "doc": "docs"
+    "doc": "docs",
+    "pages": "pages",
+    "source": "src"
   },
   "scripts": {
     "dev": "next dev",
