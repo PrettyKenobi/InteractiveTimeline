@@ -16,7 +16,8 @@ There is also a [discussions section](https://github.com/PrettyKenobi/Interactiv
 In order to keep the commit logs easy to read, this repo follows the specification of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 Similar to the conventions of the [Angular project](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines), the `type` possibilities are:
 
-* `feat`: Adds a new feature
+* `feat`: Adds new functionality from the user's perspective
+* `ui`: Additions and changes to the ui
 * `fix`: Patches a bug
 * `build`: Changes to the build system or external dependencies
   * Ex: `gulp`, `npm`
