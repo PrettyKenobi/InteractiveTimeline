@@ -1,6 +1,6 @@
 ---
 created on: 2021-03-26
-last edited: 2021-03-26
+last edited: 2021-03-30
 author: PrettyKenobi
 status: in progress
 title: How to Contribute
@@ -22,5 +22,5 @@ Similar to the conventions of the [Angular project](https://github.com/angular/a
 * `build`: Changes to the build system or external dependencies
   * Ex: `gulp`, `npm`
 * `docs`: Additions, edits, etc. to the documentation
-* `refactor`: Changes to the codebase that aren't a bug fix or adding a feature
+* `refactor`: Changes to the codebase that aren't a bug fix, a change to the ui, or adding a feature
 * `test`: Adding or updating tests

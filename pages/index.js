@@ -1,11 +1,11 @@
 import Footer from '../src/core/Footer';
 import Banner from '../src/core/Banner';
 
-function HomePage() {
+function WelcomPage() {
   return <div>
   <Banner />
   <Footer />
   </div>
 }
 
-export default HomePage;
+export default WelcomePage;
